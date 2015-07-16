@@ -124,3 +124,6 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+git-credential-osxkeychain
+.*~
+
